@@ -1,1 +1,1 @@
-# School exercies with Canvas
+# School exercise with Canvas
