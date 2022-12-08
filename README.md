@@ -1,1 +1,1 @@
-# ovning-canvas
+# School exercies with Canvas
